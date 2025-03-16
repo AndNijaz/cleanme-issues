@@ -45,6 +45,8 @@ CleanMe includes the following user interface pages:
 - **Payment Page** – A page for secure service payments directly through the app.
 - **Landing Page** – A promotional page that redirects to the fully functional platform when clicking "Sign In."
 - **TO BE IMPLEMENTED: Cleaner Comparison Page** – A page that allows users to compare multiple cleaners based on services, price, and ratings.
+- **Chat Page** - A communication page between the client and the cleaner, available only in the last three days before the appointment.
+- **Ratings Page** - A modal page where clients can leave reviews and ratings for cleaners after the service is completed.
 
 ## 4. Functionality
 
