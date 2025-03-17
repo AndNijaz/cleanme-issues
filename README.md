@@ -4,9 +4,6 @@
 
 CleanMe is an app designed to make it easier for users to connect with professional cleaners. It allows for quick and simple booking of cleaning services. Users can browse available cleaners, filter them by location, price, and services offered, and easily schedule an appointment. Once a booking is made, all communication remains within the app to ensure transparency and security. In case of cancellations or rescheduling, the system automatically records changes, helping cleaners manage their time and availability more efficiently.
 
-
-## 2. Features
-
 ## 2. Features
 
 CleanMe includes the following features:
