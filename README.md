@@ -7,6 +7,8 @@ CleanMe is an app designed to make it easier for users to connect with professio
 
 ## 2. Features
 
+## 2. Features
+
 CleanMe includes the following features:
 
 - **User Registration** – Two types of users can register: cleaner and client.
@@ -24,29 +26,25 @@ CleanMe includes the following features:
 - **User Protection** – Terms & Conditions, as well as cancellation and rescheduling policies, are in place to ensure a fair and reliable service.
 - **TO BE IMPLEMENTED: Secure Payments** – Integrated online payment system within the app to ensure transaction security.
 
-
 ## 3. Pages
 
 CleanMe includes the following user interface pages:
 
-- **Home Page / Login Page** – The main page displaying basic information about the app and allowing users to log in or sign up.
-- **User Registration Page** – A page where clients or cleaners can create an account by entering basic information.
-- **Cleaner Post-Registration Page** – A page where cleaners enter additional details such as services, hourly rates, and working hours.
-- **User Dashboard** – Displays a list of available cleaners with search filters and sorting options.
-- **Cleaner Dashboard** – A space where cleaners can view their bookings, update their information, and manage client requests.
-- **Cleaner Profile Page** – A detailed cleaner profile showing their services, prices, and ratings, with options for contact and booking.
-- **User Profile Page** – Allows clients to update their details such as name, surname, address, and profile picture.
+- **Home Page** – The main page displaying basic information about the app.
+- **Login Page** – Presents users with a form to log into their account.
+- **Registration Page** – A page where clients or cleaners can create an account by entering basic information.
+- **Dashboard** – A page conditionally rendered based on the type of user:
+  - **User view**: Displays a list of available cleaners with search filters and sorting options.
+  - **Cleaner view**: A space where cleaners can view their bookings, update their information, and manage client requests.
+- **Profile Page** – Allows users/cleaners to update their details:
+  - **Users**: Name, surname, profile picture, address.
+  - **Cleaners**: Name, surname, profile picture, services offered, hourly rates, working hours.
+- **Cleaner Page** – A detailed cleaner profile showing their services, prices, and ratings, with options for contact and booking. (Conditionally rendered)
 - **Service Reservation Page** – A booking page where clients select the time, location, and leave a comment.
-- **Reservation Confirmation Page** – A page displaying confirmation of a successful booking with details and a notification that the cleaner needs to accept the request.
 - **My Reservations Page** – A page where users can view their past and upcoming bookings, cancel them, or review details.
-- **Cleaner Requests Page (notifications client)** – A page where cleaners see all incoming bookings with options to accept or decline.
-- **Notification Page (user)** – Displays all important notifications related to bookings, accepted or declined requests, and ratings.
+- **Notification Page** – Displays all important notifications related to bookings, accepted or declined requests, and ratings for cleaners.
 - **Terms & Conditions Page** – A page containing the app’s terms of use, including cancellation and payment policies.
 - **Payment Page** – A page for secure service payments directly through the app.
-- **Landing Page** – A promotional page that redirects to the fully functional platform when clicking "Sign In."
-- **TO BE IMPLEMENTED: Cleaner Comparison Page** – A page that allows users to compare multiple cleaners based on services, price, and ratings.
-- **Chat Page** - A communication page between the client and the cleaner, available only in the last three days before the appointment.
-- **Ratings Page** - A modal page where clients can leave reviews and ratings for cleaners after the service is completed.
 
 ![image](https://github.com/user-attachments/assets/064163d2-71ad-48e2-acb7-3a5c31829a38)
 
