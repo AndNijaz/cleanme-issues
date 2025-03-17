@@ -49,6 +49,7 @@ CleanMe includes the following user interface pages:
 - **Ratings Page** - A modal page where clients can leave reviews and ratings for cleaners after the service is completed.
 
 ## 4. Functionality
+![image](https://github.com/user-attachments/assets/064163d2-71ad-48e2-acb7-3a5c31829a38)
 
 
 ## 5. API Documentation
