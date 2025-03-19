@@ -53,7 +53,7 @@ The home page displays basic information about the app and allows users to navig
 ![HomePage](pages-images/home-page.jpg)
 
 
-## 4.2. Register Page #2
+## 4.2. Register Page [#2](https://github.com/AndNijaz/cleanme-issues/issues/2)
 The register page consists of a toggle switch to determine whether the person registering is a user or a cleaner. The form includes:
 - **Email**
 - **Password**
@@ -66,7 +66,7 @@ The register page consists of a toggle switch to determine whether the person re
 ![PostRegisterPage](pages-images/post-registration-cleaner-modal.jpg)
 
 
-## 4.3. Login Page #3
+## 4.3. Login Page [#3](https://github.com/AndNijaz/cleanme-issues/issues/3)
 The login page contains a form with:
 - **Email**
 - **Password**
@@ -76,7 +76,7 @@ The login page contains a form with:
 
 ![LoginPage](pages-images/login-page.jpg)
 
-## 4.4. Dashboard #4
+## 4.4. Dashboard [#4](https://github.com/AndNijaz/cleanme-issues/issues/4)
 ### User Dashboard
 - Allows users to browse available cleaners and book services.
 - **Components:**
@@ -103,7 +103,7 @@ The login page contains a form with:
 
 ![CleanerDashboard](pages-images/cleaner-dashboard.jpg)
 
-## 4.5. Profile Page #5
+## 4.5. Profile Page [#5](https://github.com/AndNijaz/cleanme-issues/issues/5)
 Displays user or cleaner details, with editable components:
 - **Profile picture**
 - **First & last name**
@@ -115,7 +115,7 @@ Displays user or cleaner details, with editable components:
 ![CleanerProfile](pages-images/cleaner-profile.jpg)
 ![UserProfile](pages-images/user-profile.jpg)
 
-## 4.6. Cleaner Page #6
+## 4.6. Cleaner Page [#6](https://github.com/AndNijaz/cleanme-issues/issues/6)
 Dynamic page displaying cleaner details:
 - **Profile picture**
 - **Description**
@@ -127,7 +127,7 @@ Dynamic page displaying cleaner details:
 
 ![CleanerPage(UserPerspective)](pages-images/user-viewing-cleaner-profile.jpg)
 
-## 4.7. Service Reservation Page #7
+## 4.7. Service Reservation Page [#7](https://github.com/AndNijaz/cleanme-issues/issues/7)
 Booking page for selecting time, location, and adding a comment.
 - **Components:**
   - Calendar for selecting available slots
@@ -137,7 +137,7 @@ Booking page for selecting time, location, and adding a comment.
 
 ![ServiceReservation](pages-images/service-registration-page.jpg)
 
-## 4.8. My Reservations Page #8
+## 4.8. My Reservations Page [#8](https://github.com/AndNijaz/cleanme-issues/issues/8)
 Page to view past and upcoming reservations.
 - **Components:**
   - Reservation list with statuses (accepted, declined, pending)
@@ -147,13 +147,13 @@ Page to view past and upcoming reservations.
 
 ![MyReservations](pages-images/my-reservations-page.jpg)
 
-## 4.9. TO BE DONE: Live Chat Page #9
+## 4.9. TO BE DONE: Live Chat Page [#9](https://github.com/AndNijaz/cleanme-issues/issues/9)
 Direct communication page, available 3 days before the appointment until its completion.
 - **Components:**
   - Chat window
   - "Send Message" button
 
-## 4.10. Notification Page #10
+## 4.10. Notification Page [#10](https://github.com/AndNijaz/cleanme-issues/issues/10)
 Displays all booking and rating-related notifications.
 - **Components:**
   - Notification list with statuses
@@ -162,7 +162,7 @@ Displays all booking and rating-related notifications.
 ![NotificationsPageCleaner](pages-images/notifications-cleaner.jpg)
 ![NotificationsPageUser](pages-images/notifications-user.jpg)
 
-## 4.11. Rating & Reviews Modal #11
+## 4.11. Rating & Reviews Modal [#11](https://github.com/AndNijaz/cleanme-issues/issues/11)
 Modal for clients to rate cleaners after service completion.
 - **Components:**
   - Rating input (1-5 stars)
@@ -171,7 +171,7 @@ Modal for clients to rate cleaners after service completion.
 
 ![NavBars](pages-images/rate-cleaner-modal.jpg)
 
-## 4.12. Terms & Conditions Page #12
+## 4.12. Terms & Conditions Page [#12](https://github.com/AndNijaz/cleanme-issues/issues/12)
 Displays the app's terms of use.
 - **Components:**
   - Text content of terms and conditions
@@ -179,7 +179,7 @@ Displays the app's terms of use.
 
 ![TermsAndConditions](pages-images/terms-and-conditions.jpg)
 
-## 4.13. Navigation Bar Component #13
+## 4.13. Navigation Bar Component [#13](https://github.com/AndNijaz/cleanme-issues/issues/13)
 Global component for navigation.
 
 ### User Navbar:
