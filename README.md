@@ -76,7 +76,7 @@ The login page contains a form with:
 
 ![LoginPage](pages-images/login-page.jpg)
 
-## 4.4. Dashboard [#4](https://github.com/AndNijaz/cleanme-issues/issues/4)
+## 4.4. Dashboard Page [#4](https://github.com/AndNijaz/cleanme-issues/issues/4)
 ### User Dashboard
 - Allows users to browse available cleaners and book services.
 - **Components:**
