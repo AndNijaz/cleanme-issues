@@ -50,6 +50,9 @@ CleanMe includes the following user interface pages:
 ## 4.1. Home Page #1
 The home page displays basic information about the app and allows users to navigate to other pages through a navbar. If the user is not logged in, any protected page will redirect them to the login page.
 
+![HomePage](img/home-page.jpg)
+
+
 ## 4.2. Register Page #2
 The register page consists of a toggle switch to determine whether the person registering is a user or a cleaner. The form includes:
 - **Email**
@@ -59,6 +62,10 @@ The register page consists of a toggle switch to determine whether the person re
 - Link to terms and conditions
 - Link to login page
 
+![](img/universal-registration-page.jpg)
+![](img/post-registration-cleaner-modal.jpg)
+
+
 ## 4.3. Login Page #3
 The login page contains a form with:
 - **Email**
@@ -66,6 +73,8 @@ The login page contains a form with:
 - Eye icon for password visibility toggle
 - "Remember me" checkbox
 - Links to terms and conditions and the registration page
+
+![](img/login-page.jpg)
 
 ## 4.4. Dashboard #4
 ### User Dashboard
@@ -76,6 +85,8 @@ The login page contains a form with:
   - Cleaner cards with profile info, services, and prices
   - "Hire Now" button
   - Navigation to Cleaner Page for details
+
+![](img/login-page.jpg)
 
 ### Cleaner Dashboard
 - Enables cleaners to manage bookings and update their profile.
@@ -90,6 +101,8 @@ The login page contains a form with:
     - Working hours
   - Disclaimer if profile setup is incomplete
 
+![](img/cleaner-dashboard.jpg)
+
 ## 4.5. Profile Page #5
 Displays user or cleaner details, with editable components:
 - **Profile picture**
@@ -98,6 +111,9 @@ Displays user or cleaner details, with editable components:
   - Description
   - Available services as tags
   - Hourly rate
+
+![](img/cleaner-profile.jpg)
+![](img/user-profile.jpg)
 
 ## 4.6. Cleaner Page #6
 Dynamic page displaying cleaner details:
@@ -117,6 +133,8 @@ Booking page for selecting time, location, and adding a comment.
   - Comment field
   - "Book Now" button
 
+![](img/service-registration-page.jpg)
+
 ## 4.8. My Reservations Page #8
 Page to view past and upcoming reservations.
 - **Components:**
@@ -125,7 +143,9 @@ Page to view past and upcoming reservations.
   - Chat button (active 3 days before appointment until completion)
   - Navigation to Live Chat Page
 
-## 4.9. Live Chat Page #9
+![](img/my-reservations-page.jpg)
+
+## 4.9. TO BE DONE: Live Chat Page #9
 Direct communication page, available 3 days before the appointment until its completion.
 - **Components:**
   - Chat window
@@ -136,6 +156,9 @@ Displays all booking and rating-related notifications.
 - **Components:**
   - Notification list with statuses
   - Bell icon in navbar displaying new notifications count
+
+![](img/notifications-cleaner.jpg)
+![](img/notifications-user.jpg)
 
 ## 4.11. Rating & Reviews Modal #11
 Modal for clients to rate cleaners after service completion.
@@ -149,6 +172,8 @@ Displays the app's terms of use.
 - **Components:**
   - Text content of terms and conditions
   - "I Accept the Terms and Conditions" button
+
+![](img/terms-and-conditions.jpg)
 
 ## 4.13. Navigation Bar Component #13
 Global component for navigation.
