@@ -169,6 +169,8 @@ Modal for clients to rate cleaners after service completion.
   - Review text field
   - "Submit Rating" button
 
+![NavBars](pages-images/rate-cleaner-modal.jpg)
+
 ## 4.12. Terms & Conditions Page #12
 Displays the app's terms of use.
 - **Components:**
@@ -193,8 +195,7 @@ Global component for navigation.
 - **Bell icon** → Notifications Page
 - **Profile** → Cleaner Profile Page
 
-
-
+![NavBars](pages-images/navbars.jpg)
 
 ## 5. API Documentation
 ### CRUD Operations
