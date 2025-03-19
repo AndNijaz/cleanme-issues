@@ -50,7 +50,7 @@ CleanMe includes the following user interface pages:
 ## 4.1. Home Page #1
 The home page displays basic information about the app and allows users to navigate to other pages through a navbar. If the user is not logged in, any protected page will redirect them to the login page.
 
-![HomePage](img/home-page.jpg)
+![HomePage](pages-images/home-page.jpg)
 
 
 ## 4.2. Register Page #2
@@ -62,8 +62,8 @@ The register page consists of a toggle switch to determine whether the person re
 - Link to terms and conditions
 - Link to login page
 
-![RegisterPage](img/universal-registration-page.jpg)
-![PostRegisterPage](img/post-registration-cleaner-modal.jpg)
+![RegisterPage](pages-images/universal-registration-page.jpg)
+![PostRegisterPage](pages-images/post-registration-cleaner-modal.jpg)
 
 
 ## 4.3. Login Page #3
@@ -74,7 +74,7 @@ The login page contains a form with:
 - "Remember me" checkbox
 - Links to terms and conditions and the registration page
 
-![LoginPage](img/login-page.jpg)
+![LoginPage](pages-images/login-page.jpg)
 
 ## 4.4. Dashboard #4
 ### User Dashboard
@@ -86,7 +86,7 @@ The login page contains a form with:
   - "Hire Now" button
   - Navigation to Cleaner Page for details
 
-![UserDashboard](img/login-page.jpg)
+![UserDashboard](pages-images/login-page.jpg)
 
 ### Cleaner Dashboard
 - Enables cleaners to manage bookings and update their profile.
@@ -101,7 +101,7 @@ The login page contains a form with:
     - Working hours
   - Disclaimer if profile setup is incomplete
 
-![CleanerDashboard](img/cleaner-dashboard.jpg)
+![CleanerDashboard](pages-images/cleaner-dashboard.jpg)
 
 ## 4.5. Profile Page #5
 Displays user or cleaner details, with editable components:
@@ -112,8 +112,8 @@ Displays user or cleaner details, with editable components:
   - Available services as tags
   - Hourly rate
 
-![CleanerProfile](img/cleaner-profile.jpg)
-![UserProfile](img/user-profile.jpg)
+![CleanerProfile](pages-images/cleaner-profile.jpg)
+![UserProfile](pages-images/user-profile.jpg)
 
 ## 4.6. Cleaner Page #6
 Dynamic page displaying cleaner details:
@@ -133,7 +133,7 @@ Booking page for selecting time, location, and adding a comment.
   - Comment field
   - "Book Now" button
 
-![ServiceReservation](img/service-registration-page.jpg)
+![ServiceReservation](pages-images/service-registration-page.jpg)
 
 ## 4.8. My Reservations Page #8
 Page to view past and upcoming reservations.
@@ -143,7 +143,7 @@ Page to view past and upcoming reservations.
   - Chat button (active 3 days before appointment until completion)
   - Navigation to Live Chat Page
 
-![MyReservations](img/my-reservations-page.jpg)
+![MyReservations](pages-images/my-reservations-page.jpg)
 
 ## 4.9. TO BE DONE: Live Chat Page #9
 Direct communication page, available 3 days before the appointment until its completion.
