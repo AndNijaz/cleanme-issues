@@ -47,7 +47,7 @@ CleanMe includes the following user interface pages:
 
 ## 4. Functionality
 
-## 4.1. Home Page #1
+## 4.1. Home Page [#1](https://github.com/AndNijaz/cleanme-issues/issues/1)
 The home page displays basic information about the app and allows users to navigate to other pages through a navbar. If the user is not logged in, any protected page will redirect them to the login page.
 
 ![HomePage](pages-images/home-page.jpg)
