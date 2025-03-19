@@ -62,7 +62,7 @@ The register page consists of a toggle switch to determine whether the person re
 - Link to terms and conditions
 - Link to login page
 
-![RegisterPage](pages-images/universal-registration-page.jpg)
+![RegisterPage](pages-images/service-registration-page.jpg)
 ![PostRegisterPage](pages-images/post-registration-cleaner-modal.jpg)
 
 
@@ -157,8 +157,8 @@ Displays all booking and rating-related notifications.
   - Notification list with statuses
   - Bell icon in navbar displaying new notifications count
 
-![NotificationsPageCleaner](img/notifications-cleaner.jpg)
-![NotificationsPageUser](img/notifications-user.jpg)
+![NotificationsPageCleaner](pages-images/notifications-cleaner.jpg)
+![NotificationsPageUser](pages-images/notifications-user.jpg)
 
 ## 4.11. Rating & Reviews Modal #11
 Modal for clients to rate cleaners after service completion.
@@ -173,7 +173,7 @@ Displays the app's terms of use.
   - Text content of terms and conditions
   - "I Accept the Terms and Conditions" button
 
-![TermsAndConditions](img/terms-and-conditions.jpg)
+![TermsAndConditions](pages-images/terms-and-conditions.jpg)
 
 ## 4.13. Navigation Bar Component #13
 Global component for navigation.
