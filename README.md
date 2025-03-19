@@ -86,7 +86,7 @@ The login page contains a form with:
   - "Hire Now" button
   - Navigation to Cleaner Page for details
 
-![UserDashboard](pages-images/login-page.jpg)
+![UserDashboard](pages-images/user-dashboard.jpg)
 
 ### Cleaner Dashboard
 - Enables cleaners to manage bookings and update their profile.
