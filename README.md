@@ -125,6 +125,8 @@ Dynamic page displaying cleaner details:
 - **"Save for Later" button** (favorites)
 - Navigation to Service Reservation Page
 
+![CleanerPage(UserPerspective)](pages-images/user-viewing-cleaner-profile.jpg)
+
 ## 4.7. Service Reservation Page #7
 Booking page for selecting time, location, and adding a comment.
 - **Components:**
