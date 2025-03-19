@@ -43,7 +43,7 @@ CleanMe includes the following user interface pages:
 - **Terms & Conditions Page** – A page containing the app’s terms of use, including cancellation and payment policies.
 - **Payment Page** – A page for secure service payments directly through the app.
 
-![image](https://github.com/user-attachments/assets/064163d2-71ad-48e2-acb7-3a5c31829a38)
+![image](https://github.com/user-attachments/assets/271a2da6-bf14-45c4-92f3-8110bae12f5a)
 
 ## 4. Functionality
 
