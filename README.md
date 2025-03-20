@@ -17,11 +17,8 @@ CleanMe includes the following features:
 - **Cleaner Profiles** – Each cleaner has a profile card displaying key details, services, pricing, and buttons for booking or saving.
 - **Booking Appointments** – Clients can book services by selecting a time, location, and adding comments.
 - **Booking Notifications** – Cleaners receive requests that they can accept or decline, while clients get updates on their booking status.
-- **Live Chat** – Communication between clients and cleaners is enabled but only within three days of the scheduled service to prevent off-app arrangements.
-- **Cancellation and Rescheduling** – Clients can cancel an appointment, except within the last three days before the scheduled service.
 - **Rating System** – After the service is completed, clients can rate the cleaner's work.
 - **User Protection** – Terms & Conditions, as well as cancellation and rescheduling policies, are in place to ensure a fair and reliable service.
-- **TO BE IMPLEMENTED: Secure Payments** – Integrated online payment system within the app to ensure transaction security.
 
 ## 3. Pages
 
@@ -334,3 +331,6 @@ The following functionalities are not planned for the initial version of the app
 - **Mobile App Version** – In the initial phase, the app will be available only as a web platform. [#17](https://github.com/AndNijaz/cleanme-issues/issues/17)
 - **Referral & Loyalty Programs** – Reward programs for users and cleaners are not included in the first version. [#18](https://github.com/AndNijaz/cleanme-issues/issues/18)
 - **AI-powered Matching** – Intelligent matching of cleaners and users based on usage history and reviews is not currently planned. [#19](https://github.com/AndNijaz/cleanme-issues/issues/19)
+- **Secure Payments** – Integrated online payment system within the app to ensure transaction security. [#20](https://github.com/AndNijaz/cleanme-issues/issues/20)
+- **Cancellation** – Clients can cancel an appointment, except within the last three days before the scheduled service. [#21](https://github.com/AndNijaz/cleanme-issues/issues/21)
+- **Live Chat** – Communication between clients and cleaners is enabled but only within three days of the scheduled service to prevent off-app arrangements. [#22](https://github.com/AndNijaz/cleanme-issues/issues/22)
