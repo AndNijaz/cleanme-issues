@@ -226,6 +226,7 @@ Global component for navigation.
 
 
 ### Data Transfer Objects
+```typescript
 UserDto
 {
   id: string, 
@@ -235,11 +236,79 @@ UserDto
   userType: string,
   phoneNumber: string
 }
+
 LoginDto
 {
   email: string,
   password: string
 }
+
+TokenDto
+{
+  accessToken: string,
+  refreshToken: string
+}
+
+CleanerDto
+{
+  id: string,
+  userId: string,
+  services: array,
+  hourlyRate: number,
+  availability: string,
+  description: string,
+  profilePicture: string
+}
+
+FilterDto
+{
+  location: string,
+  minRate: number,
+  maxRate: number,
+  availability: string
+}
+
+ReservationDto
+{
+  id: string,
+  userId: string,
+  cleanerId: string,
+  date: string,
+  time: string,
+  location: string,
+  status: string,
+  comment: string
+}
+
+MessageDto
+{
+  id: string,
+  reservationId: string,
+  senderId: string,
+  message: string,
+  timestamp: string
+}
+
+ReviewDto
+{
+  id: string,
+  reservationId: string,
+  cleanerId: string,
+  userId: string,
+  rating: number,
+  comment: string,
+  date: string
+}
+
+NotificationDto
+{
+  id: string,
+  userId: string,
+  message: string,
+  timestamp: string,
+  read: boolean
+}
+
 
 
 ## 6. Technical Requirements
