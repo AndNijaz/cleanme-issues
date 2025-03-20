@@ -234,7 +234,6 @@ UserDto
   lastName: string,
   email: string,
   userType: string,
-  phoneNumber: string
 }
 ```
 ```ts
