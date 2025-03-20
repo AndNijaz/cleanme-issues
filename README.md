@@ -199,6 +199,31 @@ Global component for navigation.
 
 ## 5. API Documentation
 ### CRUD Operations
+| #   | CRUD    | URL Path                         | Request           | Response                  | Description                          |
+|-----|---------|----------------------------------|-------------------|---------------------------|--------------------------------------|
+| 1   | Create  | `/user/register`                | `UserDto`         | `UserDto`                 | Creates a new user                  |
+| 2   | Create  | `/user/login`                   | `LoginDto`        | `TokenDto`                | User authentication                 |
+| 3   | Read    | `/user/{id}`                    | `-`               | `UserDto`                 | Retrieves user information          |
+| 4   | Update  | `/user/{id}`                    | `UserDto`         | `UserDto`                 | Updates user profile                |
+| 5   | Read    | `/cleaners`                     | `-`               | `List<CleanerDto>`        | Retrieves list of cleaners          |
+| 6   | Read    | `/cleaners/{id}`                | `-`               | `CleanerDto`              | Retrieves cleaner details           |
+| 7   | Update  | `/cleaners/{id}`                | `CleanerDto`      | `CleanerDto`              | Updates cleaner profile             |
+| 8   | Read    | `/cleaners/filter`              | `FilterDto`       | `List<CleanerDto>`        | Filters cleaners based on criteria  |
+| 9   | Read    | `/cleaners/{id}/reservations`   | `-`               | `List<ReservationDto>`    | Retrieves all reservations for a cleaner |
+| 10  | Update  | `/cleaners/{id}/reservations/{resId}` | `ReservationDto`  | `ReservationDto` | Updates specific reservation for cleaner |
+| 11  | Create  | `/reservations`                 | `ReservationDto`  | `ReservationDto`          | Creates a new reservation           |
+| 12  | Read    | `/reservations/my`              | `-`               | `List<ReservationDto>`    | Retrieves user's reservations       |
+| 13  | Read    | `/reservations/{id}`            | `-`               | `ReservationDto`          | Retrieves reservation details       |
+| 14  | Update  | `/reservations/{id}`            | `ReservationDto`  | `ReservationDto`          | User updates a reservation          |
+| 15  | Delete  | `/reservations/{id}`            | `-`               | `-`                       | Universal cancel (user & cleaner)   |
+| 16  | Read    | `/notifications/{id}`           | `-`               | `List<NotificationDto>`   | Retrieves all notifications for a user or cleaner |
+| 17  | Create  | `/review/{reservationId}`       | `ReviewDto`       | `ReviewDto`               | Adds a review after service completion |
+| 18  | Read    | `/review/cleaner/{cleanerId}`   | `-`               | `List<ReviewDto>`         | Displays all reviews for a cleaner |
+| 19  | Create  | `/chat/{reservationId}`         | `MessageDto`      | `MessageDto`              | Creates a new chat message |
+| 20  | Read    | `/chat/{reservationId}`         | `-`               | `List<MessageDto>`        | Retrieves all messages for a specific booking |
+| 21  | Delete  | `/chat/{reservationId}`         | `-`               | `-`                       | Deletes all chat messages for a specific booking |
+| 22  | Read    | `/terms-and-conditions`         | `-`               | `String`                  | Retrieves terms and conditions      |
+
 
 ### Data Transfer Objects
 
