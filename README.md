@@ -328,9 +328,9 @@ The app Frontend/Backend is hosted on a NETLIFY/AWS cloud server respectively.
 ## 7. Out of Scope
 The following functionalities are not planned for the initial version of the app:
 
-- **In-app Payments** – Payments through the app are not yet supported (possible in future versions).
-- **Cleaner Comparison Page** – The functionality for comparing cleaners has not been defined yet.
-- **Advanced Scheduling Features** – Automatic scheduling based on user preferences is not currently planned.
-- **Mobile App Version** – In the initial phase, the app will be available only as a web platform.
-- **Referral & Loyalty Programs** – Reward programs for users and cleaners are not included in the first version.
-- **AI-powered Matching** – Intelligent matching of cleaners and users based on usage history and reviews is not currently planned.
+- **In-app Payments** – Payments through the app are not yet supported (possible in future versions). [#14](https://github.com/AndNijaz/cleanme-issues/issues/14)
+- **Cleaner Comparison Page** – The functionality for comparing cleaners has not been defined yet. [#15](https://github.com/AndNijaz/cleanme-issues/issues/15)
+- **Advanced Scheduling Features** – Automatic scheduling based on user preferences is not currently planned. [#16](https://github.com/AndNijaz/cleanme-issues/issues/16)
+- **Mobile App Version** – In the initial phase, the app will be available only as a web platform. [#17](https://github.com/AndNijaz/cleanme-issues/issues/17)
+- **Referral & Loyalty Programs** – Reward programs for users and cleaners are not included in the first version. [#18](https://github.com/AndNijaz/cleanme-issues/issues/18)
+- **AI-powered Matching** – Intelligent matching of cleaners and users based on usage history and reviews is not currently planned. [#19](https://github.com/AndNijaz/cleanme-issues/issues/19)
