@@ -226,6 +226,20 @@ Global component for navigation.
 
 
 ### Data Transfer Objects
+UserDto
+{
+  id: string, 
+  firstName: string,
+  lastName: string,
+  email: string,
+  userType: string,
+  phoneNumber: string
+}
+LoginDto
+{
+  email: string,
+  password: string
+}
 
 
 ## 6. Technical Requirements
