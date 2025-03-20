@@ -226,7 +226,7 @@ Global component for navigation.
 
 
 ### Data Transfer Objects
-```typescript
+```ts
 UserDto
 {
   id: string, 
@@ -236,19 +236,22 @@ UserDto
   userType: string,
   phoneNumber: string
 }
-```typescript
+```
+```ts
 LoginDto
 {
   email: string,
   password: string
 }
-
+```
+```ts
 TokenDto
 {
   accessToken: string,
   refreshToken: string
 }
-
+```
+```ts
 CleanerDto
 {
   id: string,
@@ -259,7 +262,8 @@ CleanerDto
   description: string,
   profilePicture: string
 }
-
+```
+```ts
 FilterDto
 {
   location: string,
@@ -267,7 +271,8 @@ FilterDto
   maxRate: number,
   availability: string
 }
-
+```
+```ts
 ReservationDto
 {
   id: string,
@@ -279,7 +284,8 @@ ReservationDto
   status: string,
   comment: string
 }
-
+```
+```ts
 MessageDto
 {
   id: string,
@@ -288,7 +294,8 @@ MessageDto
   message: string,
   timestamp: string
 }
-
+```
+```ts
 ReviewDto
 {
   id: string,
@@ -299,7 +306,8 @@ ReviewDto
   comment: string,
   date: string
 }
-
+```
+```ts
 NotificationDto
 {
   id: string,
@@ -308,8 +316,7 @@ NotificationDto
   timestamp: string,
   read: boolean
 }
-
-
+```
 
 ## 6. Technical Requirements
 CleanMe is built using the following technologies:
