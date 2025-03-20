@@ -62,7 +62,6 @@ The register page consists of a toggle switch to determine whether the person re
 - Link to terms and conditions
 - Link to login page
 
-![RegisterPage](pages-images/service-registration-page.jpg)
 ![PostRegisterPage](pages-images/post-registration-cleaner-modal.jpg)
 
 
