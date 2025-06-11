@@ -135,8 +135,8 @@ src/app/
 
 ### **Frontend**
 
-- **Framework**: Angular 18+ (Standalone Components)
-- **Styling**: Tailwind CSS 3+
+- **Framework**: Angular 19+ (Standalone Components)
+- **Styling**: Tailwind CSS 4+
 - **Icons**: Material Icons, Heroicons
 - **State Management**: Services with RxJS
 - **Build Tool**: Angular CLI with Webpack
@@ -147,7 +147,7 @@ src/app/
 - **API**: Spring Boot REST API
 - **Database**: PostgreSQL
 - **Authentication**: JWT tokens
-- **Hosting**: AWS/Heroku
+- **Hosting**: Heroku
 
 ### **Development Tools**
 
@@ -237,7 +237,7 @@ LocalStorage-based favorite management
 ```bash
 # Clone the repository
 git clone <repository-url>
-cd cleanme-ai/cleanme-frontend
+cd cleanme-frontend
 
 # Install dependencies
 npm install
@@ -389,10 +389,6 @@ interface ReservationDto {
 **CleanMe** represents a fully functional, production-ready cleaning service platform with modern architecture, clean code practices, and comprehensive user experience design. The application successfully bridges the gap between cleaning service providers and clients through an intuitive, feature-rich web interface.
 
 ---
-
-## License
-
-This project is licensed under the MIT License - see the LICENSE file for details.
 
 ## Contact
 
