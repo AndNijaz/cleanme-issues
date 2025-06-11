@@ -25,7 +25,7 @@ CleanMe includes the following **fully implemented features**:
 
 ### **Frontend Stack**
 
-- **Framework**: Angular 18+ (Standalone Components)
+- **Framework**: Angular 19+ (Standalone Components)
 - **Styling**: Tailwind CSS 3+ with custom design system
 - **Icons**: Material Icons, Heroicons
 - **State Management**: Services with RxJS observables
